@@ -1,0 +1,5 @@
+.DS_Store
+
+# Geospatial data
+data/
+building_footprints.zip
